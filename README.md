@@ -1,2 +1,2 @@
-# sample-app - v1
+# sample-app
 Explore CI/CD with GitHub and Jenkins
